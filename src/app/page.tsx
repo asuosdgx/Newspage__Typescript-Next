@@ -1,15 +1,14 @@
-import { Article } from "@/types/news";
-import Grid from "./components/Grid/page";
+import Grid from "./components/Grid/Grid";
 import { fetchArticles } from "../api/articles";
-import { useState } from "react";
 
-
-
+export const dynamic = "force-dynamic"
 
 export default async function Home() {
   const articles = await fetchArticles(); 
+  
   return (
     <div>
+      <h1 className="text-5xl text-center my-3 font-bold font-serif">Latest News</h1>
       <Grid articles={articles} />
     </div>
   );
