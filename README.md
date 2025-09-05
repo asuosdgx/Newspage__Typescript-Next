@@ -1,5 +1,5 @@
 <h1>Next + Typescript || Tailwind CSS - API NewsPage </h1>
-<p>Projeto do módulo Next+Typescript consumindo api do NewsAPi (https://newsapi.org/), estilizado em tailwind.</p>
+<p>Projeto do módulo Next+Typescript consumindo api do NewsAPi (https://newsapi.org/) com axios, estilizado em tailwind.</p>
 https://newspage-typescript-next.vercel.app/
 
 
