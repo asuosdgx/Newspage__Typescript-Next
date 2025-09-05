@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1>Next + Typescript || Tailwind CSS - API NewsPage </h1>
+<p>Projeto do módulo Next+Typescript consumindo api do NewsAPi (https://newsapi.org/), estilizado em tailwind.</p>
 
 ## Getting Started
 
